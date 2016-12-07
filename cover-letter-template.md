@@ -1,11 +1,11 @@
 Jason B. Daniels, M.S.C.S.
-Street Address
-City, ST, ZIP
-[(###)###-####](tel:###-###-####)
-[email@example.com](mailto:email@example.com)
-*Mmm. dd, yyyy*
+<br>Street Address
+<br>City, ST, ZIP
+<br>[(###)###-####](tel:###-###-####)
+<br>[email@example.com](mailto:email@example.com)
+<br>*Mmm. dd, yyyy*
 
-`
+<br>
 
 **Dear Hiring Manager**,
 
@@ -15,7 +15,7 @@ I'm also interested in this job, because I've always enjoyed helping others lear
 
 In closing, my desire to help others will fuel my passion to perform essential _Position_ duties that are guided by previous agile experiences. I look forward to an interview to discuss employment opportunities. Please feel free to contact my be phone or email (If by phone please leave a message if prompted). Thank you for taking the time to consider my application.
 
-`
+<br>
 
 Thank you,
 
